@@ -88,4 +88,5 @@ export const skillsData = [
   "PostgreSQL",
   "Python",
   "Django",
+  "WebDriverIO"
 ] as const;
