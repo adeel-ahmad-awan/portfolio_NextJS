@@ -20,12 +20,12 @@ export default function About() {
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
 
-        Upon completing my Bachelor's degree in {" "}
+        Upon completing my Bachelor{"'"}s degree in {" "}
         <span className="font-medium">Computer Science</span>{" "}, I embarked on my journey into
         the world of web development with a position at{" "}
         <span className="font-medium">Coeus Solutions.</span>{" "}
         The aspect of programming that truly captivates me is the art of problem-solving.
-        There's an indescribable satisfaction that comes with uncovering solutions to intricate challenges.
+        There{"'"}s an indescribable satisfaction that comes with uncovering solutions to intricate challenges.
       </p>
       <p>
         My core skill set encompasses {" "}
@@ -40,7 +40,7 @@ export default function About() {
       </p>
 
       <p>
-        <span className="italic">When I'm not coding</span>, I enjoy playing
+        <span className="italic">When I{"'"}m not coding</span>, I enjoy playing
         video games, watching movies. I also enjoy{" "}
         <span className="font-medium">learning new things</span>.
       </p>
