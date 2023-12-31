@@ -1,4 +1,4 @@
-# Portfolio_NextJS
+# Portfolio NextJS
 
 ## About
 
